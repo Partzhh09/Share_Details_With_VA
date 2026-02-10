@@ -8,6 +8,12 @@ cd app_bundle
 cd backend
 
 step 3:
+run this in backend folder
 python -m uvicorn app.main:app --reload
 
 step 4:
+open voice assistant folder
+
+step 5:
+"jarvis_test.py"
+run this file
