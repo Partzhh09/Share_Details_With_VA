@@ -1,5 +1,8 @@
 How to the run this program step by step guide.
 
+first of all run this code in Share_detials_with_va
+pip install -r requirements.txt
+
 step 1 :
 open the new terminal
 
