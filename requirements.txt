@@ -1,0 +1,26 @@
+# ---------------- CORE ----------------
+fastapi
+uvicorn
+
+# ---------------- MARKET DATA ----------------
+yfinance
+
+# ---------------- VOICE ASSISTANT ----------------
+SpeechRecognition
+pyttsx3
+pyaudio; platform_system=="Windows"
+
+# ---------------- NLP / FUZZY MATCHING ----------------
+rapidfuzz
+
+# ---------------- HTTP ----------------
+requests
+
+# ---------------- CHARTS ----------------
+matplotlib
+
+# ---------------- GUI SUPPORT (for matplotlib exe) ----------------
+tk
+
+# ---------------- BUILD / PACKAGING ----------------
+pyinstaller
