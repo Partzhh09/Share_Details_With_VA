@@ -8,3 +8,6 @@ cd app_bundle
 cd backend
 
 step 3:
+python -m uvicorn app.main:app --reload
+
+step 4:
