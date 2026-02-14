@@ -3,6 +3,8 @@ Launcher for IPO Predict with VA.
 Sets up paths so backend and jarvis are found, then starts backend in a thread and runs the voice assistant.
 Used as the entry point for the built .exe.
 """
+"""
+
 import sys
 import os
 import threading
@@ -34,3 +36,4 @@ if __name__ == "__main__":
     backend_thread.start()
     time.sleep(2)
     start_jarvis()
+"""
