@@ -4,7 +4,7 @@ Follow this step-by-step guide to set up and run the program.
 
 ## Prerequisites
 
-Before starting, ensure you have installed the necessary dependencies. Navigate to the `Share_detials_with_va` directory and run:
+Before starting, ensure you have installed the necessary dependencies. Navigate to the `Share_detials_with_va` directory and run:-
 
 ```bash
 pip install -r requirements.txt
